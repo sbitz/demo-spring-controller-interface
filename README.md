@@ -37,6 +37,8 @@ The benefit of using this pattern is that the controller implementation remains 
 ./gradlew bootRun
 ```
 
+Once running, Open Swagger ([localhost:8090/swagger-ui/index.html](https://localhost:8090/swagger-ui/index.html)) to view the result of Interface annotations and execute requests against endpoints, or continue below to test functionality from the CLI.
+
 And in another window, make a request
 
 ```shell
