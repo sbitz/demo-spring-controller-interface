@@ -28,3 +28,6 @@ public class ControllerImpl implements Controller {
 }
 ```
 
+The benefit of using this pattern is that the controller implementation remains clear, while the Swagger interface can be updated to include examples and descriptions of parameters. This is a separation of concerns between the interface and implementation.
+
+
