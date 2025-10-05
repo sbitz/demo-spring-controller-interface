@@ -75,3 +75,8 @@ The element is returned in the array.
 ```console
 ["foo"]
 ```
+
+## Mock with Wiremock
+
+See the [Docker Readme](src/main/docker/README.md)
+Create mappings there to prepare a response to an endpoint.
